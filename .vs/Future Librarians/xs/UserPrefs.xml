@@ -1,7 +1,8 @@
 ﻿<Properties StartupConfiguration="{1A189476-8929-63F4-909E-DD60CD1E7844}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/FreeFlyCamera/Scripts/FreeFlyCamera.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/test.cs">
     <Files>
-      <File FileName="Assets/FreeFlyCamera/Scripts/FreeFlyCamera.cs" Line="1" Column="1" />
+      <File FileName="Assets/PlayerInteraction.cs" Line="8" Column="17" />
+      <File FileName="Assets/test.cs" Line="9" Column="9" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
