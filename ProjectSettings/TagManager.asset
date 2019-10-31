@@ -10,6 +10,7 @@ TagManager:
   - Adult1
   - Adult2
   - Adult3
+  - CanvasText
   layers:
   - Default
   - TransparentFX

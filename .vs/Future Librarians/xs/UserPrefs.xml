@@ -1,8 +1,7 @@
 ﻿<Properties StartupConfiguration="{1A189476-8929-63F4-909E-DD60CD1E7844}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/test.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Speak.cs">
     <Files>
-      <File FileName="Assets/PlayerInteraction.cs" Line="8" Column="17" />
-      <File FileName="Assets/test.cs" Line="9" Column="9" />
+      <File FileName="Assets/Scripts/Speak.cs" Line="15" Column="48" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
