@@ -63,6 +63,7 @@
   <ItemGroup>
     <Compile Include="Assets\Flip.cs" />
     <Compile Include="Assets\FreeFlyCamera\Scripts\FreeFlyCamera.cs" />
+    <None Include="Assets\Simple city plain\Read_me.txt" />
     <None Include="Assets\Bench\ReadMe.txt" />
     <None Include="Assets\Grimoire\ReadMe.txt" />
     <None Include="Assets\FreeFlyCamera\readme.txt" />
